@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClipCut-App", "ClipCut-App.csproj", "{97DF1B3E-BD91-4FE2-835E-187810AA83EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ClipCut", "ClipCut.csproj", "{97DF1B3E-BD91-4FE2-835E-187810AA83EC}"
 EndProject
 Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "ClipCutAppPackaging", "..\ClipCutAppPackaging\ClipCutAppPackaging.wapproj", "{C0FCC825-EAAF-4603-B7A7-94E5410667FC}"
 EndProject
