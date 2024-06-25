@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>ClipCut_App</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Icon 256.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="Icon 256.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediaToolkit" Version="1.1.0.1" />
+    <PackageReference Include="YoutubeExplode" Version="6.3.16" />
+  </ItemGroup>
+
+</Project>
