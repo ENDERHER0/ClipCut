@@ -1,1 +1,1 @@
-# ClipCut-App
+# ClipCut
